@@ -13,3 +13,4 @@ dependencies:
     - timm
     - gradio
     - scipy
+    - flash-attn --no-build-isolation

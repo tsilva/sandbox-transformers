@@ -4,10 +4,12 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.10
-  - pytorch>=2.0.0
+  - python=3.11
+  - pytorch
   - pip
   - pip:
     - transformers
     - pillow
     - timm
+    - gradio
+    - scipy

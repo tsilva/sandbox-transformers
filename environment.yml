@@ -5,12 +5,16 @@ channels:
   - defaults
 dependencies:
   - python=3.11
-  - pytorch
   - pip
-  - pip:
-    - transformers
-    - pillow
-    - timm
-    - gradio
-    - scipy
-    - flash-attn --no-build-isolation
+  - numpy
+  - pillow
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.8  # Matches your CUDA version
+  - transformers
+  - timm
+  - jupyter
+  - jupyterlab
+  - ipython
+  - ipykernel

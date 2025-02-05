@@ -13,6 +13,8 @@ dependencies:
   - pytorch             # Will be installed from the pytorch channel
   - pytorch-cuda=11.8   # Provides the matching CUDA runtime
   - transformers[sentencepiece]
+  - accelerate
+  - evaluate
   - timm
   - jupyter
   - jupyterlab

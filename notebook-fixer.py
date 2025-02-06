@@ -1,3 +1,10 @@
+# TODO: turn into isolate project
+# TODO: target notebook through command line
+# TODO: register as global app with shortcut
+# TODO: tag modified cells with digest of code + prompt
+# TODO: make sure the rewriting takes surrounding context into account
+# TODO: use langchain to be able to use different models
+
 import nbformat
 import openai
 import json

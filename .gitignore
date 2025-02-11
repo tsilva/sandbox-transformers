@@ -175,3 +175,10 @@ cython_debug/
 
 .env
 test-trainer
+*.zip
+*.jsonl
+*.tsv
+*.tsv.zip
+*.json
+*.json.gz
+drug-reviews

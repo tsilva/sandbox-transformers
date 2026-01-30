@@ -1,0 +1,10 @@
+[project]
+name = "sandbox-transformers"
+version = "0.1.0"
+description = "Sandbox for experimenting with Hugging Face Transformers and PyTorch"
+requires-python = ">=3.11"
+dependencies = [
+    "transformers[torch]>=5.0",
+    "torch",
+    "accelerate",
+]

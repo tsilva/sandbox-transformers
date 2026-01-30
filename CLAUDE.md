@@ -30,6 +30,7 @@ uv run python main.py
 This is a flat, script-based repository without complex module structure:
 
 - **`main.py`**: Quick start script demonstrating Hugging Face pipelines (sentiment analysis, text generation)
+- **`gallery/`**: Self-contained scripts each demonstrating a single pipeline use case (summarization, translation, QA, fill-mask, NER, zero-shot classification, image classification, speech recognition)
 
 All scripts use the high-level `pipeline()` API from Hugging Face Transformers.
 

@@ -33,6 +33,21 @@ classifier(["I love this!", "This is terrible."])
 # [{'label': 'POSITIVE', 'score': 0.9998}, {'label': 'NEGATIVE', 'score': 0.9994}]
 ```
 
+## 🖼️ Gallery
+
+Self-contained scripts in `gallery/` demonstrating individual pipelines:
+
+| Use Case | Script |
+|----------|--------|
+| Summarization | `uv run python gallery/summarization.py` |
+| Translation (EN→FR) | `uv run python gallery/translation.py` |
+| Question Answering | `uv run python gallery/question_answering.py` |
+| Fill Mask | `uv run python gallery/fill_mask.py` |
+| Named Entity Recognition | `uv run python gallery/ner.py` |
+| Zero-Shot Classification | `uv run python gallery/zero_shot_classification.py` |
+| Image Classification | `uv run python gallery/image_classification.py` |
+| Speech Recognition | `uv run python gallery/automatic_speech_recognition.py` |
+
 ## 📋 Requirements
 
 - Python 3.11+

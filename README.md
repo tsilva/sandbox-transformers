@@ -5,7 +5,7 @@
   [![Transformers](https://img.shields.io/badge/Transformers-v5-orange.svg)](https://huggingface.co/docs/transformers)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **🤗 A quick start sandbox for exploring Hugging Face Transformers pipelines with PyTorch**
+  **🤗 Sandbox for Hugging Face Transformers and PyTorch 🔥**
 
 </div>
 

@@ -57,3 +57,7 @@ Self-contained scripts in `gallery/` demonstrating individual pipelines:
 ## 📄 License
 
 MIT
+
+## License
+
+MIT

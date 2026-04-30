@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-transformers" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-transformers/main/logo.png" alt="sandbox-transformers" width="512"/>
 
   [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
   [![Transformers](https://img.shields.io/badge/Transformers-v5-orange.svg)](https://huggingface.co/docs/transformers)

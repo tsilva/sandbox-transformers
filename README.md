@@ -1,13 +1,14 @@
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-transformers/main/logo.png" alt="sandbox-transformers" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🤗 Sandbox for Hugging Face Transformers and PyTorch 🔥</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
   [![Transformers](https://img.shields.io/badge/Transformers-v5-orange.svg)](https://huggingface.co/docs/transformers)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-  **🤗 Sandbox for Hugging Face Transformers and PyTorch 🔥**
-
-</div>
 
 ## 🚀 Quick Start
 

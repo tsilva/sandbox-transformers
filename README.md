@@ -61,4 +61,4 @@ MIT
 
 ## License
 
-MIT
+[MIT License](LICENSE).
